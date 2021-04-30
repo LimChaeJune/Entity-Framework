@@ -7,7 +7,7 @@
    Entity Framework는 이러한 데이터베이스 관련 작업을 자동화하기 위해 .NET 개체를 사용해 데이터베이스로 작업할 수 있게 해주는 Microsoft에서 제공하는 [O/RM(개체 관계형 매퍼)](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
    프레임워크입니다.        
          
-   Entity Framework는 ORM 프레임워크이며, 이 프레임워클 이용해 데이테이베이스를 이용하면,
+   Entity Framework 프레임워크를 이용해 데이테이베이스를 작업하면,
    개발자가 데이터가 저장되는 데이터베이스 테이블에 초점을 맞추고 개발하지 않아도 Class로 구성한 개체를 사용해 데이터로 작업할 수 있습니다.     
    
 ### EF의 O/RM 기능들
