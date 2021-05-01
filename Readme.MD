@@ -17,5 +17,5 @@
 
 
 ### ASP.NET CORE
-  
+    
 ### WPF
