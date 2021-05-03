@@ -25,6 +25,8 @@
    - ## NuGet 패키지를 통한 EF 설치
      
    - ## 관리자 콘솔을 통한 EF 설치
-     ```Install-Package EntityFramework```
-    
-### WPF
+   ```PowerShell```
+   
+   ```CSharp
+   Install-Package EntityFramework
+   ```    
