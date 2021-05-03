@@ -17,8 +17,14 @@
     - LINQ를 통해 데이터베이스 검색을 사용 가능합며, LINQ 쿼리를 특정 데이터베이스 언어로 변환합니다.        
     - LINQ를 이용해 원시 SQL 쿼리를 DB에서 직접 실행할 수 있습니다.
     - NuGet 패키지 관리자 콘솔을 통해 DB 관리를 할 수 있는 명령 집합을 제공합니다.
+    - 풍부한 매핑 기능을 지원합니다. (일대일, 일대다 및 다대다 관계 / 상속 관계 / 저장 프로시저 등)
+    - C#으로 코드를 작성하고 마이그레이션으로 엔티티 모델을 생성하는 "Code First" 환경을 지원합니다.
+    - SQL Server, MySQL, Oracle, PostgreSQL 등 여러유형의 DB 공급자를 기반으로 데이터베이스 연결을 지원합니다.
 
-
-### ASP.NET CORE
+### Entity Framework 시작하기     
+   - ## NuGet 패키지를 통한 EF 설치
+     
+   - ## 관리자 콘솔을 통한 EF 설치
+     ```Install-Package EntityFramework```
     
 ### WPF
