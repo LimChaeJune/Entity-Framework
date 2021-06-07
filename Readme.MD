@@ -21,14 +21,4 @@
     - C#으로 코드를 작성하고 마이그레이션으로 엔티티 모델을 생성하는 "Code First" 환경을 지원합니다.
     - SQL Server, MySQL, Oracle, PostgreSQL 등 여러유형의 DB 공급자를 기반으로 데이터베이스 연결을 지원합니다.
 
-### Entity Framework 시작하기     
-   - ## NuGet 패키지를 통한 EF 설치
-     
-   - ## 관리자 콘솔을 통한 EF 설치
-   ```PowerShell```
-   
-   ```CSharp
-   Install-Package EntityFramework
-   ```        
-      
  
